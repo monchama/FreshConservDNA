@@ -16,3 +16,5 @@ Applying molecular genetic resources to address the current state of freshwater 
 - **03-download_ncbi_genome.R** Download records from NCBI Genome.
 - **04-examine_bold_records.R** Explore downloaded BOLD Systems records.
 - **05-examine_ncbi_genome_records.R** Explore NCBI Genome records.
+- **07-human_footprint.R** Map BOLD Systems records onto a human footprint index.
+- **08-latitudinal_ranges.R** Estimate latitudinal spans of BOLD Systems records.
