@@ -5,7 +5,7 @@
 library(tidyverse)
 
 # Load palettes
-source("scripts/00_palettes.R")
+source("scripts/00-palettes.R")
 
 #### Import and format data ####
 # Import BOLD records
