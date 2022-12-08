@@ -65,7 +65,7 @@ dat.s <- left_join(dat.s,phylum.list)
 dat.s <- dat.s %>% select(taxon, phylum, class:records)
 dat.s$records[is.na(dat.s$records)] = 0
 
-#add a column indicating if species has at least 3 records in BOLD
+#add a column indicating if species has at least 5 records in BOLD
 dat.s$represented = 0
 dat.s$represented[dat.s$records > 4] = 1
 
@@ -75,7 +75,7 @@ dat.s$at.risk[dat.s$assessment == 'Data Deficient'] <- 0
 dat.s$at.risk[dat.s$assessment == 'Not At Risk'] <- 0
 dat.s$at.risk[dat.s$assessment == 'Not Available'] <- 0
 
-#add a column combining previous two metrics, i.e. species is both a risk & has 3+ BOLD records 
+#add a column combining previous two metrics, i.e. species is both a risk & has 5+ BOLD records 
 dat.s$at.risk.with.seq = 0
 dat.s$at.risk.with.seq[dat.s$at.risk == 1 & dat.s$represented == 1] = 1
 
