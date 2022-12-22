@@ -4,7 +4,7 @@ Scripts associated with the manuscript
 
 ---
 
-Applying molecular genetic resources to address the current state of freshwater biodiversity: A case study across a landscape with vast freshwater resources
+Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sanchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis I, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance freshwater conservation.
 
 ---
 
@@ -16,5 +16,6 @@ Applying molecular genetic resources to address the current state of freshwater 
 - **03-download_ncbi_genome.R** Download records from NCBI Genome.
 - **04-examine_bold_records.R** Explore downloaded BOLD Systems records.
 - **05-examine_ncbi_genome_records.R** Explore NCBI Genome records.
+- **06-make_figure_2.R** Plot Figure 2.
 - **07-human_footprint.R** Map BOLD Systems records onto a human footprint index.
 - **08-latitudinal_ranges.R** Estimate latitudinal spans of BOLD Systems records.
