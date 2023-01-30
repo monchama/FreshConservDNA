@@ -4,7 +4,7 @@ Scripts associated with the manuscript
 
 ---
 
-Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sanchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis I, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance freshwater conservation.
+Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sanchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis I, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance inland water conservation.
 
 ---
 
