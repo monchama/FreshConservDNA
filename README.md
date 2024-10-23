@@ -8,6 +8,8 @@ Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère 
 
 ---
 
+<p align="center"><img src='images/monchamp_etal_2023-fig1.jpg' align="center" height="300"></p>
+
 ## Scripts
 
 - **00-palettes.R** Define colour palettes for figures in scripts 4 and 5.
