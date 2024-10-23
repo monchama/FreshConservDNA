@@ -1,10 +1,10 @@
 # FreshConservDNA
 
-Scripts associated with the manuscript
+Scripts associated with the article
 
 ---
 
-Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sanchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis I, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance inland water conservation.
+Monchamp M-E, Taranu ZE, Garner RE, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sanchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis I, Albert M, Cristescu ME, Gregory-Eaves I. 2023. Prioritizing taxa for genetic reference database development to advance inland water conservation. *Biological Conservation* **280**, 109963. https://doi.org/10.1016/j.biocon.2023.109963
 
 ---
 
